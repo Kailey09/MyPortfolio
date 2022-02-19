@@ -47,4 +47,20 @@ header nav ul li a:hover {
     background-color: var(--tertiary-color);
 }
 
+.me {
+    background-color: var(--secondary-color);
+    text-align: center;
+}
+.me img {
+    width: 20%;
+}
 
+.me h2 {
+    color: var(--tertiary-color);
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+
+.me p {
+    color: var(--tertiary-color);
+}
